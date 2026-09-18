@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Analytics with Python
+# Sales Performance & Analytics with Python
 
 Este projeto consiste numa análise exploratória e estruturação de dados de vendas para avaliação do desempenho comercial, eficiência por canal (físico vs. e-commerce) e acompanhamento do cumprimento de metas gerenciais.
 
@@ -8,7 +8,7 @@ Este projeto consiste numa análise exploratória e estruturação de dados de v
 * **Linguagem:** Python
 * **Bibliotecas:** Pandas, NumPy
 * **Ambiente de Desenvolvinento:** VS Code / Jupyter Notebooks
-* **Controlo de Versões:** Git & GitHub
+* **Controle de Versões:** Git & GitHubss
 
 ---
 
